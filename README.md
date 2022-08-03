@@ -1,4 +1,8 @@
-### Hi there 👋
+### Justus Weber
+Software architect, music fan, fitness enthusiast.
+
+## Misc
+[Favorite Newsletters/Blogs/Feeds](https://gist.github.com/justusweber)
 
 <!--
 **justusweber/justusweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
