@@ -1,6 +1,9 @@
 ### Justus Weber
 Software architect, music fan, fitness enthusiast.
 
+## About Me
+I am the Director, Software Architecture at ATP Tour, Inc.  I'm interested in Clean Architecture, DDD, making computers talk to each other, moving data around and doing so in a manner that is easy to understand, easy to change, and performant.
+
 ## Misc
 [Favorite Newsletters/Blogs/Feeds](https://gist.github.com/justusweber)
 
