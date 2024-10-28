@@ -5,7 +5,7 @@ Software architect, music fan, fitness enthusiast.
 I am the Director, Software Architecture at ATP Tour, Inc.  I'm interested in Clean Architecture, DDD, making computers talk to each other, moving data around and doing so in a manner that is easy to understand, easy to change, and performant.
 
 ## Misc
-[Favorite Newsletters](https://gist.github.com/justusweber](https://gist.github.com/justusweber/7dd049c68a3da11623d3bbc512e25b18)
+[Favorite Newsletters](https://gist.github.com/justusweber/7dd049c68a3da11623d3bbc512e25b18)
 [Favorite Articles](https://gist.github.com/justusweber/c55bb96eebccdf1361676d7273d6846c)
 
 <!--
