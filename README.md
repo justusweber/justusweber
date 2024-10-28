@@ -2,7 +2,7 @@
 Software architect, music fan, fitness enthusiast.
 
 ## About Me
-I am the Director, Software Architecture at ATP Tour, Inc.  I'm interested in Clean Architecture, DDD, making computers talk to each other, moving data around and doing so in a manner that is easy to understand, easy to change, and performant.
+Formerly the Director, Software Architecture at ATP Tour, Inc., currently Architect for a SaaS platform at HighRoads Inc.  I'm interested in cloud-first design, service oriented design, Clean Architecture, DDD, making computers talk to each other, moving data around and doing so in a manner that is easy to understand, easy to change, and performant.
 
 ## Misc
 [Favorite Newsletters](https://gist.github.com/justusweber/7dd049c68a3da11623d3bbc512e25b18)
