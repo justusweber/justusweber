@@ -6,6 +6,7 @@ I am the Director, Software Architecture at ATP Tour, Inc.  I'm interested in Cl
 
 ## Misc
 [Favorite Newsletters](https://gist.github.com/justusweber/7dd049c68a3da11623d3bbc512e25b18)
+
 [Favorite Articles](https://gist.github.com/justusweber/c55bb96eebccdf1361676d7273d6846c)
 
 <!--
