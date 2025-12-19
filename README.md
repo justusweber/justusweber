@@ -2,7 +2,11 @@
 Software architect, music fan, fitness enthusiast.
 
 ## About Me
-Formerly the Director, Software Architecture at ATP Tour, Inc., currently Architect for a SaaS platform at HighRoads Inc.  I'm interested in cloud-first design, service oriented design, Clean Architecture, DDD, making computers talk to each other, moving data around and doing so in a manner that is easy to understand, easy to change, and performant.
+I am a software architect and technology leader with a broad interest in cloud-native design, scalable distributed systems, and well-engineered solutions delivered to Amazon Web Services (AWS).
+
+I am the President of JW Technology Labs, LLC, where I manage and architect custom applications and solutions for clients, with a focus on cloud-first architectures, service-oriented design, and clean, maintainable code. Our work spans from requirements and design through implementation and delivery on AWS, ensuring performant, secure, and scalable systems.
+
+My interests include architectural patterns, domain-driven design, high-performance data workflows, and creating systems that are easy to understand, easy to evolve, and robust in production.
 
 ## Misc
 [Favorite Newsletters](https://gist.github.com/justusweber/7dd049c68a3da11623d3bbc512e25b18)
