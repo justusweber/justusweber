@@ -4,9 +4,7 @@ Software architect, music fan, fitness enthusiast.
 ## About Me
 I am a software architect and technology leader with a broad interest in cloud-native design, scalable distributed systems, and well-engineered solutions delivered to Amazon Web Services (AWS).
 
-I am the President of JW Technology Labs, LLC, where I architect and manage the
-
-development of custom applications and solutions for clients, with a focus on cloud-first architectures, service-oriented design, and clean, maintainable code. Our work spans from requirements and design through implementation and delivery on AWS, ensuring performant, secure, and scalable systems.
+I am the President of JW Technology Labs, LLC, where I architect and manage the development of custom applications and solutions for clients, with a focus on cloud-first architectures, service-oriented design, and clean, maintainable code. Our work spans from requirements and design through implementation and delivery on AWS, ensuring performant, secure, and scalable systems.
 
 My interests include architectural patterns, domain-driven design, high-performance data workflows, and creating systems that are easy to understand, easy to evolve, and robust in production.
 
